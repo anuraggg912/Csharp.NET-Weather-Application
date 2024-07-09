@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Weather Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D96B6-94FB-4EA7-AA5E-61DC725778F8}|Solution Items{EC4D96B6-94FB-4EA7-AA5E-61DC725778F8}|C:\\Users\\HP\\source\\repos\\Weather Application\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4D96B6-94FB-4EA7-AA5E-61DC725778F8}|Solution Items{EC4D96B6-94FB-4EA7-AA5E-61DC725778F8}|solutionrelative:vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491173C-5BE0-4416-B2FD-7D8CB558E4F4}|Weather Application\\Weather Application.csproj|c:\\users\\hp\\source\\repos\\weather application\\weather application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491173C-5BE0-4416-B2FD-7D8CB558E4F4}|Weather Application\\Weather Application.csproj|solutionrelative:weather application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491173C-5BE0-4416-B2FD-7D8CB558E4F4}|Weather Application\\Weather Application.csproj|C:\\Users\\HP\\source\\repos\\Weather Application\\weather application\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491173C-5BE0-4416-B2FD-7D8CB558E4F4}|Weather Application\\Weather Application.csproj|solutionrelative:weather application\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491173C-5BE0-4416-B2FD-7D8CB558E4F4}|Weather Application\\Weather Application.csproj|C:\\Users\\HP\\source\\repos\\Weather Application\\weather application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0491173C-5BE0-4416-B2FD-7D8CB558E4F4}|Weather Application\\Weather Application.csproj|solutionrelative:weather application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 171,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vercel.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Weather Application\\vercel.json",
+              "RelativeDocumentMoniker": "vercel.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Weather Application\\vercel.json",
+              "RelativeToolTip": "vercel.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T17:16:12.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Weather Application\\Weather Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Weather Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Weather Application\\Weather Application\\Form1.cs",
+              "RelativeToolTip": "Weather Application\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:19:00.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Weather Application\\Weather Application\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "Weather Application\\WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Weather Application\\Weather Application\\WeatherInfo.cs",
+              "RelativeToolTip": "Weather Application\\WeatherInfo.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwvz0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:13:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Weather Application\\Weather Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Weather Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Weather Application\\Weather Application\\Form1.cs [Design]",
+              "RelativeToolTip": "Weather Application\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:10:49.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather_Application.Form1.resources
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather_Application.Properties.Resources.resources
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Weather Application\Weather Application\bin\Debug\Weather Application.exe.config
+C:\Users\HP\source\repos\Weather Application\Weather Application\bin\Debug\Weather Application.exe
+C:\Users\HP\source\repos\Weather Application\Weather Application\bin\Debug\Weather Application.pdb
+C:\Users\HP\source\repos\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather .F6EF7EE9.Up2Date
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.exe
+C:\Users\HP\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.pdb
